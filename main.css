@@ -1,0 +1,200 @@
+body
+{
+width: 900px; 	
+margin: 0;
+padding: 0px;
+padding-top: 50px;
+text-align: justify;
+background-color: #8888bb;
+
+}
+
+#logo {
+
+	padding-left: 40px;
+}
+
+#copyright {
+
+	font-size: 10px; 
+	position: relative;
+	left: 60px;
+}
+
+#centered
+{
+width: 600px;
+text-align: left;
+border: 0px;
+padding: 0;
+margin: 0 auto;
+}
+
+
+#ad1 {
+
+	position: relative;
+	left: 50px;
+	padding: 12px;
+}
+
+#likebutton {
+
+	position: relative;
+	left: 50px;
+	padding: 12px;
+}
+
+#container {
+  width: 800px;
+  margin: 10px auto;
+  background-color: #8888bb;
+  line-height: 130%;
+  text-align: justify;
+
+}
+
+
+#sidebar { 
+
+width: 200px;
+padding: 20px;
+font-family:Verdana, Geneva, sans-serif;
+font-size: 11px;
+text-align: left;
+
+}
+
+a:link {color:#000000;text-decoration:none;}    
+a:visited {color:#B7B7C6;text-decoration:none;}
+a:hover {color:#DBDBE7;text-decoration:none;}
+a:active {color:#8E8E9A;text-decoration:none;}
+
+
+#ad2 {
+
+	height:150px;
+	width: 550px;
+	position: relative;
+	left: 280px;
+	top: -725px;
+}
+
+
+.searchbox {
+
+	clear:both;
+	float: right;
+
+}
+
+#mainnav {
+
+	height: 20px;
+	width: 550px;
+	position: relative;
+	left: 280px;
+	top: -645px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 13px;
+}
+
+
+#hotalbums {
+
+	height:150px;
+	width: 550px;
+	position: relative;
+	left: 280px;
+	top: -600px;
+}
+
+#lastestnews {
+
+	height: 190px;
+	width: 250px;
+	position: relative;
+	left: 280px;
+	top: -550px;
+	background-color: #8888BB;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	text-align: justify;
+
+
+}
+
+.heading {
+
+	font-family:Verdana, Geneva, sans-serif;
+
+
+}
+
+#ad3 {
+
+	height: 190px;
+	width: 275px;
+	position: relative;
+	left: 550px;
+	top: -742px;
+	background-color:  #fff; 
+}
+
+
+
+/* side bar links  */
+
+#leftnav {
+	float: left;
+	padding: 20px;
+	color: #880000;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 13px;
+}
+
+#leftnav ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	border-bottom: none;
+}
+
+
+
+#leftnav ul li a {
+	font-size: 12px;
+	padding: 5px;
+	text-decoration: none;
+	color: #880000;
+}
+
+
+
+
+#footer p .right {
+    text-align:right;
+    float:right;
+}
+
+
+#footer {
+	clear: both;
+	width: 550px;
+	margin: 0;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	
+}
+
+
+.right {
+	float:right;
+	padding:2px;
+
+}
+
+
+
+</style>
+</head>
